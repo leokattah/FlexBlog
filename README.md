@@ -9,7 +9,7 @@ O projeto foi feito com HTML e CSS Flexbox apenas.Foram usados conceitos básico
 <a href="https://www.linkedin.com/in/leonardo-kattah-55059a20/"> <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 ### Créditos
-Créditos para a [Origamid](https://www.origamid.com/cursos/) que traz exclentes cursos sobre front-end! ❤
+Créditos para a [Origamid](https://www.origamid.com/cursos/) que traz oferece ótimos cursos sobre front-end! ❤
 
 <figure>
 <img src = "https://github.com/leokattah/FlexBlog/blob/main/img/FlexBlog_finished.png" alt="imagem da projeto acabado">
