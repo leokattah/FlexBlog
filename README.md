@@ -12,5 +12,5 @@ O projeto foi feito com HTML e CSS Flexbox apenas. Foram usados conceitos básic
 Agradeço a [Origamid](https://www.origamid.com/cursos/) que oferece ótimos cursos sobre front-end! ❤
 
 <figure>
-<img src = "https://github.com/leokattah/FlexBlog/blob/main/img/FlexBlog_finished.png" alt="imagem da projeto acabado">
+<img src = "https://github.com/leokattah/FlexBlog/blob/main/img/Flexblog.gif" alt="imagem da projeto acabado">
 <figure>
